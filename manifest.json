@@ -1,0 +1,9 @@
+{
+	"id": "aggregate-todos",
+	"name": "Aggregate ToDos",
+	"version": "0.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Aggreagate all todos at a single place.",
+	"author": "Parth",
+	"isDesktopOnly": false
+}
